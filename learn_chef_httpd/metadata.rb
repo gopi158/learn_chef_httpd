@@ -1,6 +1,6 @@
 name 'learn_chef_httpd'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Gopi'
+maintainer_email 'gopi.maddineni158@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures learn_chef_httpd'
 long_description 'Installs/Configures learn_chef_httpd'
